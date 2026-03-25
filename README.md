@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JuanvaSS
-- 👀 I’m interested in ... boobs
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... maths
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://steamcommunity.com/profiles/76561198930114180/ 
+- 📫 How to reach me ... 
 
 <!---
 JuanvaSS/JuanvaSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
