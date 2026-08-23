@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JuanvaSS
-- 👀 I’m interested in ... study
-- 🌱 I’m currently learning ... maths
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👋 Hi, I’m Suarez Valentin
+- 👀 I’m interested in study
+- 🌱 I’m currently learning maths
+- 💞️ I’m looking to collaborate on UTN
+- 📫 How to reach me @juanva_ss
 
 <!---
 JuanvaSS/JuanvaSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
